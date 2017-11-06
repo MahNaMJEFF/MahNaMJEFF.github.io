@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>I Love ECS.<head>
+
+
+  <div style="background-color:black;color:white;padding:20px;">
+  <h2>London</h2>
+  <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+</div>
+
+<title>This is a title.</title>
+<body>
+
+<h1>This is a heading</h1>
+
+<p>This is a paragraph.</p>
+
+<hr>This is a line.></hr>
+
+<img src="img_chania.jpg" alt="Flowers in India">
+
+This text contains<br>a line break.
+
+
+
+<!-- Write your comments here -->
+
+<div>This is</div>
+<div>A block</div>
+
+<ul>
+  <li>Cammie</li>
+  <li>Billy</li>
+  <li>George</li>
+</ul>
+
+<ul style="list-style-type:disc">
+  <li>Good</li>
+  <li>Bye</li>
+  <li>Hello</li>
+</ul>
+
+
+<a href="https://www.w3schools.com/html/">This is a link</a>
+
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
